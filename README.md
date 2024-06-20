@@ -32,6 +32,6 @@ _Sistem ini sudah integrasi dengan bylnk jadi kita bisa memantau melalui aplikas
   
 ## Contact :
 - @fekka_1st (Instagram)
-- 
+- @tu__good (Instagram)
 
 
