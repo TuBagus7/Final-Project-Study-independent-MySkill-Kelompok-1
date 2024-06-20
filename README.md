@@ -28,7 +28,8 @@ _Sistem ini sudah integrasi dengan bylnk jadi kita bisa memantau melalui aplikas
 ## Teknologi Yang digunakan:
 - Blynk
 - Arduino Code
-- 
+- Wifi Manager
+  
 ## Contact :
 - @fekka_1st (Instagram)
 - 
